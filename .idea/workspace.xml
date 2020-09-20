@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6ddcdd-255b-45d3-be52-282541034890" name="Default Changelist" comment="" />
+    <list default="true" id="aef348fa-514b-48af-a3ad-b0ddf64095b3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1gx9fYAewbHD9nF0QDNI1x9jTjj" />
+  <component name="ProjectId" id="1hBLARF6M4w3SNQl5kboCPxIOMJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,24 +38,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Self-Education-React/01-first-project/react-app-01" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d6ddcdd-255b-45d3-be52-282541034890" name="Default Changelist" comment="" />
-      <created>1599045482782</created>
+      <changelist id="aef348fa-514b-48af-a3ad-b0ddf64095b3" name="Default Changelist" comment="" />
+      <created>1599479394570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599045482782</updated>
-      <workItem from="1599045484841" duration="1153000" />
-      <workItem from="1599067210160" duration="599000" />
-      <workItem from="1599122196061" duration="301000" />
-      <workItem from="1599203135087" duration="1672000" />
-      <workItem from="1600611739267" duration="108000" />
-      <workItem from="1600611848794" duration="323000" />
+      <updated>1599479394570</updated>
+      <workItem from="1599479395902" duration="73000" />
+      <workItem from="1599480523442" duration="682000" />
+      <workItem from="1599490530816" duration="14000" />
+      <workItem from="1599497569682" duration="1419000" />
+      <workItem from="1599546107611" duration="11000" />
     </task>
     <servers />
   </component>
@@ -75,10 +83,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="509" y="148" key="FileChooserDialogImpl" timestamp="1600611846051">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="168" y="38" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599498469326">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="509" y="148" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600611846051" />
-    <state x="494" y="138" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1599204806406" />
+    <state x="168" y="38" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1599498469326" />
+    <state x="494" y="138" key="FileChooserDialogImpl" timestamp="1599546116514">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="138" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1599546116514" />
   </component>
 </project>
