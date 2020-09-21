@@ -19,14 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef348fa-514b-48af-a3ad-b0ddf64095b3" name="Default Changelist" comment="" />
+    <list default="true" id="aef348fa-514b-48af-a3ad-b0ddf64095b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/mongoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Пруф.PNG" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hBLARF6M4w3SNQl5kboCPxIOMJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,6 +46,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Self-Education-React/01-first-project/react-app-01" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
@@ -64,6 +71,8 @@
       <workItem from="1599490530816" duration="14000" />
       <workItem from="1599497569682" duration="1419000" />
       <workItem from="1599546107611" duration="11000" />
+      <workItem from="1600629789985" duration="597000" />
+      <workItem from="1600688961788" duration="1212000" />
     </task>
     <servers />
   </component>
